@@ -1,9 +1,3 @@
-# Publications
+# Related Publications
 
-## 2023
-- [The effect of lactose intolerance on future lunar exploration. O'Brien et al., Nature 1234 2023](link_to_paper)
-- [Is the Moon made of cheese? O'Brien et al., Nature 1233 2023](link_to_paper)
-## 2022
-- [On ignoring experts within your field and claim everything is Aliens. O'Brien et al, "Science" 2022 ](link_to_paper)
-## 1995
-- ["Got your nose", a worrying rise in nasal robbery, O'Brien et al, 1st grade show and tell, 1995](link_to_paper)
+-[Understanding and simulating SiPMs. Acerbi, F., & Gundacker, S. (2019). Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 926, 16-35.](https://www.sciencedirect.com/science/article/pii/S0168900218317704)

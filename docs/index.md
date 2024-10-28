@@ -1,21 +1,10 @@
 # Welcome to My Research Page
 
-
-![Coma cluster](./media/Crab_Nebula.jpg "Crab Nebula"){align="left": style="height:150;width:150px"}
-Welcome to the digital platform of a dedicated physics graduate student committed to unraveling the intricacies of the cosmos. 
-Focused on the exploration of the profound Crab Nebula, a celestial phenomenon steeped in historical fascination, my research endeavors center on the application of advanced astrophysical methodologies and theoretical frameworks. 
-This platform serves as an invitation to accompany me on a scholarly journey into the depths of the universe. 
-Through meticulous investigation, I aim to elucidate the fundamental processes shaping the Crab Nebula, contributing substantively to the broader comprehension of the universe's extraordinary phenomena. 
-I extend a formal welcome to all who wish to engage with the frontiers of astrophysics through the lens of my ongoing research endeavors.
-
+Welcome to my research page! My work focuses on developing experimental techniques to help study neutrinos. Despite the success of the Standard Model in explaining particle physics, it leaves many questions unanswered, particularly regarding the elusive neutrino. I am involved in the next-generation Enriched Xenon Observatory (nEXO) experiment, which aims to detect neutrinoless double beta decay and uncover the mysteries of these unique particles using liquid Xenon. My research includes the developement of light detection for nEXO through Silicon Photo Multiplier(SiPM) testing and the Light-only Liquid Xenon (LoLX) experiment, where I investigate scintillation light detection to improve the sensitivity of nEXO and future experiments. 
 
 If you're like to learn more about me, you can find an introduction to [my research](./reasearch/research_index.md), some info on some [recent projects](./projects/project_index.md) and some more info [about me](./about/about.md).
 
-## Here is an equation
+## Here is nEXO
 
-$$ x = \frac{-b \pm \sqrt{b^2 -4ac}}{2a}$$
-
-## Here is the Crab Nebula
-
-[![Crab Nebula](./media/Crab_Nebula.jpg "Crab Nebula")](https://en.wikipedia.org/wiki/Crab_Nebula#)
-I got this image from [Wikipedia](https://en.wikipedia.org/wiki/Crab_Nebula).
+[![nEXO Experiment](./media/nEXO "nEXO")](https://nexo.llnl.gov/nexo-overview)
+I got this image from [nEXO Overview](https://nexo.llnl.gov/nexo-overview).
