@@ -1,7 +1,7 @@
 # Change to your own name
 site_name: Riya Rai's Research Page
 # Change to your own site
-site_url: http://127.0.0.1:8000/mcgill-tutorial/ # must have the trailing slash
+site_url: http://127.0.0.1:8000/riya-rai/ # must have the trailing slash
 site_author: Riya Rai (riya.rai@mail.mcgill.ca)
 site_description: Research site for Riya Rai
 copyright: > # should remain a link to the original theme
@@ -73,4 +73,4 @@ plugins:
     # Using jupyter notebook  
     - mkdocs-jupyter:
           theme: default
-    - mkdocs-pdf # to embed pdf
+    # - mkdocs-pdf # to embed pdf
