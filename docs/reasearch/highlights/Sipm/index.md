@@ -1,8 +1,8 @@
-# Sipm
+# Silicon Photomultipliers
 
 <figure markdown>
-  ![A single SPAD circuit within a SiPM](./media/sipm_circuit.png)
-{: style="height:300px;width:500px"}
+  ![A single SPAD circuit within a SiPM](./media/sipm_circuit.png){: style="height:300px;width:500px"}
+
   <!-- Within fig caption normal markdown linking doesn't work, instead use a href attribute -->
   <figcaption>A single SPAD circuit within a SiPM</figcaption>
 </figure>

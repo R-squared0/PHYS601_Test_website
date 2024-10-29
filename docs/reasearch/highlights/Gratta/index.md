@@ -1,4 +1,4 @@
-# Article on the Search for no neutrinos
+# The Search for Neutrinoless Double Beta Decay
 
 
 <figure markdown>
