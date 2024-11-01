@@ -12,4 +12,3 @@ interacts in this unique environment, which is crucial for the success of experi
  - [‘Searching for a needle in a haystack;’A Ba-tagging approach for an upgraded nEXO experiment.](./highlights/Batagging/index.md)
  - [Understanding and simulating SiPMs.](./highlights/Sipm/index.md)
 
-A full list of related publications on the topic can be found [here](./all_publications.md).
